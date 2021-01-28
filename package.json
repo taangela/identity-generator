@@ -6,7 +6,7 @@
   "author": "Marta Koperek <makoperek@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "electron": "5.0.6"
+    "electron": "9.4.0"
   },
   "scripts": {
     "start": "electron main.js"
